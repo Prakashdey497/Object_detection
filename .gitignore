@@ -1,0 +1,5 @@
+yolov8n.pt
+obj_detect
+__pycache__
+.ipynb_checkpoints
+video.mp4
